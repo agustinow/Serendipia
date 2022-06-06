@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176526421905",
+    "project_id": "privatechat-62576",
+    "storage_bucket": "privatechat-62576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176526421905:android:56e271c39179f7ed7bb430",
+        "android_client_info": {
+          "package_name": "com.odella.serendipia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176526421905-pslnlprrr65nn1objrp19rdop6p8d92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsM18jIAVXjDNMUhPTHCamqpy9ZZtl8sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176526421905-pslnlprrr65nn1objrp19rdop6p8d92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
